@@ -1,0 +1,15 @@
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus_MarkupCompile.cache
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus_MarkupCompile.lref
+C:\Users\user.COMP-02\source\repos\yolus\bin\Debug\yolus.exe.config
+C:\Users\user.COMP-02\source\repos\yolus\bin\Debug\yolus.exe
+C:\Users\user.COMP-02\source\repos\yolus\bin\Debug\yolus.pdb
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.g.resources
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.Properties.Resources.resources
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.exe
+C:\Users\user.COMP-02\source\repos\yolus\obj\Debug\yolus.pdb
